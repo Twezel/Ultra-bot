@@ -1,0 +1,8 @@
+python-telegram-bot==21.6
+beautifulsoup4
+cloudscraper
+requests
+apscheduler
+playwright
+psycopg2-binary
+redis
